@@ -67,9 +67,9 @@
             "MUST_TEXT": "```Lütfen herhangi bir mesajı yanıtlayın```"
         },
         "heroku": {
-            "RESTART_DESC": "WhatsAsena'yı yeniden başlatın",
+            "RESTART_DESC": "MSD'yi yeniden başlatın",
             "RESTART_MSG": "```Yeniden başlatılıyor...```",
-            "SHUTDOWN_DESC": "WhatsAsena'yı kapatır.",
+            "SHUTDOWN_DESC": "MSD'yi kapatır.",
             "SHUTDOWN_MSG": "```Kapatılıyor... ⛔```",
             "DYNO_DESC": "Heroku dyno kullanımını kontrol edin",
             "DYNO_TOTAL": "```Toplam Kota```",
@@ -134,7 +134,7 @@
         },
         "profile": {
             "KICKME_DESC": "Yazdığınız gruptan sizi çıkarır.",
-            "KICKME": "```Güle Güle! Ben gidiyorum 🤠```",
+            "KICKME": "```Güle Güle! Ben gidiyorum,Belki Başka Bir Zaman Başka Bireyerde Görğşmek Dileğiyle 🤠```",
             "PP_DESC": "Yanıt verdiğiniz fotoğrafı profil fotoğrafınız yapar.",
             "NEED_PHOTO": "*Bana bir fotoğraf ver!*",
             "PPING": "```Profil fotoğrafı yapılıyor...```",
